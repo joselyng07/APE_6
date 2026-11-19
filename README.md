@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="APE 6 - Arreglos y Listas en Java" width="100%">
-
 <br>
 
 ### `6 misiones · 2 partes · 1 exploradora.`
@@ -202,5 +200,3 @@ Posicion del 14 en la copia: 2
 </div>
 ````
 ````
-
-Este README usa una imagen `assets/banner.svg`. Si quieres también el código del banner para pegarlo en un archivo, dímelo y te lo paso.
